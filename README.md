@@ -17,3 +17,4 @@
 - [SQL Dersleri Ödev 9](https://github.com/nalcaciomer/patikadev-odevler/blob/java-orta-patika/SQL/odev9.sql)
 - [SQL Dersleri Ödev 10](https://github.com/nalcaciomer/patikadev-odevler/blob/java-orta-patika/SQL/odev10.sql)
 - [SQL Dersleri Ödev 11](https://github.com/nalcaciomer/patikadev-odevler/blob/java-orta-patika/SQL/odev11.sql)
+- [SQL Dersleri Ödev 12](https://github.com/nalcaciomer/patikadev-odevler/blob/java-orta-patika/SQL/odev12.sql)
