@@ -2,4 +2,10 @@
 
 ## Java Başlangıç Patikası
 
-- [GIT Dersleri kodluyoruzilkrepo Ödevi](https://github.com/nalcaciomer/patikadev-odevler/blob/java-baslangic-patika/GIT/kodluyoruzilkrepo/kodluyoruzilkrepo.md)
+### GIT
+
+- [kodluyoruzilkrepo](https://github.com/nalcaciomer/patikadev-odevler/blob/java-baslangic-patika/GIT/kodluyoruzilkrepo/kodluyoruzilkrepo.md)
+
+### Veri Yapıları ve Algoritmalar
+
+- [Selection Sort](https://github.com/nalcaciomer/patikadev-odevler/blob/java-baslangic-patika/Veri_Yapilari_Ve_Algoritmalar/SelectionSort.md)
