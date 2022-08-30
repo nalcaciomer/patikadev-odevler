@@ -10,6 +10,8 @@
 
 - [Selection Sort](https://github.com/nalcaciomer/patikadev-odevler/blob/java-baslangic-patika/Veri_Yapilari_Ve_Algoritmalar/SelectionSort.md)
 
+- [Merge Sort](https://github.com/nalcaciomer/patikadev-odevler/blob/java-baslangic-patika/Veri_Yapilari_Ve_Algoritmalar/MergeSort.md)
+
 ## Java Orta Seviye Patikası
 
 ### SQL
