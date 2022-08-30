@@ -12,6 +12,8 @@
 
 - [Merge Sort](https://github.com/nalcaciomer/patikadev-odevler/blob/java-baslangic-patika/Veri_Yapilari_Ve_Algoritmalar/MergeSort.md)
 
+- [BinarySearchTree](https://github.com/nalcaciomer/patikadev-odevler/blob/java-baslangic-patika/Veri_Yapilari_Ve_Algoritmalar/BinarySearchTree.md)
+
 ## Java Orta Seviye Patikası
 
 ### SQL
