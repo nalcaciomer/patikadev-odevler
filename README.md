@@ -25,3 +25,7 @@
 - [Taksimetre Hesaplama](https://github.com/nalcaciomer/patikadev-odevler/blob/java-baslangic-patika/Java101/taksimetreHesapla/src/taksimetreHesapla/Hesapla.java)
 
 - [Daire Alan ve Çevre Hesaplama](https://github.com/nalcaciomer/patikadev-odevler/blob/java-baslangic-patika/Java101/daireAlanCevre/src/daireAlanCevre/Hesapla.java)
+
+- [Vücut Kitle İndeksi Hesaplama](https://github.com/nalcaciomer/patikadev-odevler/blob/java-baslangic-patika/Java101/vucutKitleIndeks/src/vucutKitleIndeks/Hesapla.java)
+
+- [Manav Kasa](https://github.com/nalcaciomer/patikadev-odevler/blob/java-baslangic-patika/Java101/manavKasa/src/manavKasa/Hesapla.java)
