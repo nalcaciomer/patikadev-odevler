@@ -29,3 +29,11 @@
 - [Vücut Kitle İndeksi Hesaplama](https://github.com/nalcaciomer/patikadev-odevler/blob/java-baslangic-patika/Java101/vucutKitleIndeks/src/vucutKitleIndeks/Hesapla.java)
 
 - [Manav Kasa](https://github.com/nalcaciomer/patikadev-odevler/blob/java-baslangic-patika/Java101/manavKasa/src/manavKasa/Hesapla.java)
+
+- [Hesap Makinesi](https://github.com/nalcaciomer/patikadev-odevler/blob/java-baslangic-patika/Java101/hesapMakinesi/src/App.java)
+
+- [Kullanıcı Girişi](https://github.com/nalcaciomer/patikadev-odevler/blob/java-baslangic-patika/Java101/kullaniciGirisi/src/App.java)
+
+- [Sınıfı Geçme Durumu](https://github.com/nalcaciomer/patikadev-odevler/blob/java-baslangic-patika/Java101/sinifiGecmeDurumu/src/App.java)
+
+- [Hava Sıcaklığı Etkinlik](https://github.com/nalcaciomer/patikadev-odevler/blob/java-baslangic-patika/Java101/havaSicaklikEtkinlik/src/App.java)
