@@ -37,3 +37,9 @@
 - [Sınıfı Geçme Durumu](https://github.com/nalcaciomer/patikadev-odevler/blob/java-baslangic-patika/Java101/sinifiGecmeDurumu/src/App.java)
 
 - [Hava Sıcaklığı Etkinlik](https://github.com/nalcaciomer/patikadev-odevler/blob/java-baslangic-patika/Java101/havaSicaklikEtkinlik/src/App.java)
+
+- [Üç Sayıyı Sıralama](https://github.com/nalcaciomer/patikadev-odevler/blob/java-baslangic-patika/Java101/ucSayiSiralama/src/App.java)
+
+- [Burç Bulma](https://github.com/nalcaciomer/patikadev-odevler/blob/java-baslangic-patika/Java101/burcBulma/src/App.java)
+
+- [Uçak Bileti Fiyatı Hesaplama](https://github.com/nalcaciomer/patikadev-odevler/blob/java-baslangic-patika/Java101/ucakBiletiFiyati/src/App.java)
